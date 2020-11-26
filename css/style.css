@@ -110,15 +110,17 @@ label span:after{
     width: 300px;
     height: 100%;
     margin: 0;
-    padding: 80px 0;
+    padding: 40px 0;
     list-style: none;
     text-align: center;
+
+
 
 }
 
 .burger-menu ul li{
     display: block;
-    padding: 12px 24px;
+    padding: 5px 10px;
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -128,20 +130,21 @@ label span:after{
 
 #menu:checked ~ ul{
     visibility: visible;
-    max-height: 400px;
+    max-height: 300px;
     left: 0;
 }
 
 ul li a {
     text-transform: uppercase;
-    font: 18px/18px 'Open Sans', sans-serif;
+    font: 14px/14px 'Open Sans', sans-serif;
     font-weight: 600;
-    color: white;
+    color: #3d82bb;
     text-decoration: none;
 }
 
 .burger-menu ul li a:hover{
-     color: #3d82bb;
+     color: #ffffff;
+    background-color: #3d82bb;
  }
 
 

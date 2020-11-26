@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +54,33 @@
       <workItem from="1605956528226" duration="18394000" />
       <workItem from="1606215734904" duration="6218000" />
       <workItem from="1606236341390" duration="3015000" />
-      <workItem from="1606291354420" duration="11683000" />
+      <workItem from="1606291354420" duration="11687000" />
+      <workItem from="1606320333979" duration="799000" />
+      <workItem from="1606321437086" duration="179000" />
+      <workItem from="1606333578542" duration="595000" />
+      <workItem from="1606409643629" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="qwe" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606409867892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606409867892" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606241100729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606241100729" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606236342354">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606409717387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606236342354" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606409717387" />
   </component>
 </project>
