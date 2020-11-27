@@ -196,7 +196,7 @@ h2 {
     margin-bottom: 60px;
 }
 
-.about p {
+p {
     font: 18px/36px 'Open Sans', sans-serif;
     font-weight: 300;
     margin-bottom: 52px;
@@ -231,14 +231,8 @@ h2 {
     justify-content: space-between;
 }
 
-.show-work .wrapper.d-flex div {
+.show-work .wrapper.d-flex img {
     width: 25%;
-    max-height: 302px;
-    margin-bottom: 3px;
-}
-
-.show-work .wrapper.d-flex div img {
-    width: 100%;
     display: block;
 }
 

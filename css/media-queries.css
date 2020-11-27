@@ -6,37 +6,76 @@
 }
 }
 @media only screen and (max-width: 992px){
-    .show-work .wrapper.d-flex div {
+    .show-work .wrapper.d-flex img {
         width: 33%;
-        margin-bottom: 2px;
+        display: block;
     }
-}
+
+
+
+
 @media only screen and (max-width: 767px){
+    .main {
+        background-image: url('../images/bg_main_mob_01.jpg');
+        }
+
+    header {
+      background-color: rgba(84, 90, 91, 0.36);
+        background:linear-gradient(to right, rgba(84, 90, 91, 0.36) 90%, rgba(39, 50, 55, 0.7)10%);
+    }
+
+    .main .burger-menu span{
+        visibility: hidden;
+    }
+    .main .burger-menu label span{
+        visibility: visible;
+    }
+
+
+    .main h1 {
+        font: 95px/95px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+    .main h1 span{
+        font: 95px/95px 'Open Sans', sans-serif;
+        font-style: italic;
+        font-weight: 300;
+    }
+
+
+
 
     ul li a {
-        font: 12px/10px 'Open Sans', sans-serif;
+        font: 27px/27px 'Open Sans', sans-serif;
         font-weight: 600;
         background-color: #f9f9f9;
     }
-    .main h1 {
-        font: 44px/44px 'Open Sans', sans-serif;
+
+
+    h3 {
+        font: 28px/28px 'Open Sans', sans-serif;
+        margin-bottom: 35px;
     }
-    .main h1 span{
-        font: 44px/44px 'Open Sans', sans-serif;
-        font-style: italic;
-    }
+
+
+
     h2 {
-        color: #505d68;
-        font: 36px/36px 'Open Sans', sans-serif;
+        font: 90px/90px 'Open Sans', sans-serif;
         font-weight: 600;
-        margin-bottom: 30px;
+        margin-bottom: 86px;
+    }
+    p {
+        font: 29px/36px 'Open Sans', sans-serif;
+        font-weight: 300;
+        margin-bottom: 74px;
     }
 
-
-    .show-work .wrapper.d-flex div {
+    .show-work .wrapper.d-flex img {
         width: 50%;
-        margin-bottom: 2px;
+        display: block;
     }
+
+
     .post .d-flex div {
         max-width: 100%;
         margin: auto;
@@ -49,423 +88,3 @@
 
 
 
-@media only screen and (max-width: 428px){
-    header .logo {
-        max-width: 120px;
-        padding: 10px;
-    }
-
-    .burger-menu{
-        width: 150px;
-        font-size: 14px;
-    }
-
-    .burger-menu label {
-        width: 22px;
-        height: 18px;
-    }
-
-    label span:before{
-        content: "";
-        bottom: 6px;
-    }
-
-    label span:after{
-        content: "";
-        top: 6px;
-    }
-    burger-menu ul{
-        left: 0;
-        width: 200px;
-        height: 50%;
-        padding: 10px 0;
-            }
-
-    #menu:checked ~ ul{
-        left: -40%;
-    }
-
-    ul li a {
-        font: 12px/10px 'Open Sans', sans-serif;
-        font-weight: 600;
-        background-color: #f9f9f9;
-    }
-    .burger-menu ul li {
-        font-size: 12px;
-    }
-
-
-
-    .main h1 {
-        font: 36px/36px 'Open Sans', sans-serif;
-    }
-    .main h1 span{
-        font: 36px/36px 'Open Sans', sans-serif;
-        font-style: italic;
-    }
-    h2 {
-        color: #505d68;
-        font: 24px/24px 'Open Sans', sans-serif;
-        font-weight: 600;
-        margin-bottom: 30px;
-    }
-
-
-
-    .show-work .wrapper.d-flex div {
-        width: 100%;
-        margin-bottom: 2px;
-    }
-    .post .d-flex div {
-        max-width: 100%;
-    }
-    .post .desc {
-        width: 100%;
-    }
-    .contact .d-flex div {
-        background-color: #f9f9f9;
-        padding: 30px 15px 30px;
-        text-align: center;
-        width: 100%;
-    }
-
-    h6 {
-        color:#505d68 ;
-        font-size: 12px;
-        margin-bottom: 20px;
-    }
-
-    .contact p{
-        font-size: 16px;
-    }
-
-
-    footer .container.d-flex {
-        flex-wrap: wrap;
-    }
-    footer .container.d-flex div{
-        width: 100%;
-    }
-    footer .container.d-flex div:first-of-type {
-        margin-bottom: 15px;
-    }
-}
-
-
-
-@media only screen and (max-width: 375px){
-    header .logo {
-        max-width: 120px;
-        padding: 10px;
-    }
-
-    .burger-menu{
-        width: 150px;
-        font-size: 14px;
-    }
-
-    .burger-menu label {
-        width: 22px;
-        height: 18px;
-    }
-
-    label span:before{
-        content: "";
-        bottom: 6px;
-    }
-
-    label span:after{
-        content: "";
-        top: 6px;
-    }
-    burger-menu ul{
-        left: 0;
-        width: 200px;
-        height: 50%;
-        padding: 10px 0;
-    }
-
-    #menu:checked ~ ul{
-        left: -40%;
-    }
-
-    ul li a {
-        font: 12px/10px 'Open Sans', sans-serif;
-        font-weight: 600;
-        background-color: #f9f9f9;
-    }
-    .burger-menu ul li {
-        font-size: 12px;
-    }
-
-
-
-
-    .main h1 {
-    font: 24px/24px 'Open Sans', sans-serif;
-}
-    .main h1 span{
-        font: 24px/24px 'Open Sans', sans-serif;
-        font-style: italic;
-    }
-    h2 {
-        color: #505d68;
-        font: 18px/18px 'Open Sans', sans-serif;
-        font-weight: 600;
-        margin-bottom: 30px;
-    }
-
-
-
-
-
-    .show-work .wrapper.d-flex div {
-        width: 100%;
-        margin-bottom: 2px;
-    }
-    .post .d-flex div {
-        max-width: 100%;
-    }
-    .post .desc {
-        width: 100%;
-    }
-
-    .contact .d-flex div {
-        background-color: #f9f9f9;
-        padding: 30px 15px 30px;
-        text-align: center;
-        width: 100%;
-    }
-
-    h6 {
-        color:#505d68 ;
-        font-size: 12px;
-        margin-bottom: 20px;
-    }
-
-    .contact p{
-        font-size: 16px;
-    }
-
-    footer .container.d-flex {
-        flex-wrap: wrap;
-    }
-    footer .container.d-flex div{
-        width: 100%;
-    }
-    footer .container.d-flex div:first-of-type {
-        margin-bottom: 15px;
-    }
-
-}
-
-
-
-@media only screen and (max-width: 368px){
-    header .logo {
-        max-width: 120px;
-        padding: 10px;
-    }
-
-    .burger-menu{
-        width: 150px;
-        font-size: 14px;
-    }
-
-    .burger-menu label {
-        width: 22px;
-        height: 18px;
-    }
-
-    label span:before{
-        content: "";
-        bottom: 6px;
-    }
-
-    label span:after{
-        content: "";
-        top: 6px;
-    }
-    burger-menu ul{
-        left: 0;
-        width: 200px;
-        height: 50%;
-        padding: 10px 0;
-    }
-
-    #menu:checked ~ ul{
-        left: -40%;
-    }
-
-    ul li a {
-        font: 12px/10px 'Open Sans', sans-serif;
-        font-weight: 600;
-        background-color: #f9f9f9;
-    }
-    .burger-menu ul li {
-        font-size: 12px;
-    }
-
-
-
-
-    .main h1 {
-        font: 24px/24px 'Open Sans', sans-serif;
-    }
-    .main h1 span{
-        font: 24px/24px 'Open Sans', sans-serif;
-        font-style: italic;
-    }
-    h2 {
-        color: #505d68;
-        font: 18px/18px 'Open Sans', sans-serif;
-        font-weight: 600;
-        margin-bottom: 30px;
-    }
-
-
-
-
-    .show-work .wrapper.d-flex div {
-        width: 100%;
-        margin-bottom: 2px;
-    }
-    .post .d-flex div {
-        max-width: 100%;
-    }
-    .post .desc {
-        width: 100%;
-    }
-
-    .contact .d-flex div {
-         background-color: #f9f9f9;
-         padding: 30px 15px 30px;
-         text-align: center;
-         width: 100%;
-     }
-
-    h6 {
-        color:#505d68 ;
-        font-size: 12px;
-        margin-bottom: 20px;
-    }
-
-    .contact p{
-        font-size: 16px;
-    }
-
-
-
-    footer .container.d-flex {
-        flex-wrap: wrap;
-    }
-    footer .container.d-flex div{
-        width: 100%;
-    }
-    footer .container.d-flex div:first-of-type {
-        margin-bottom: 15px;
-    }
-}
-
-
-
-
-@media only screen and (max-width: 328px) {
-    header .logo {
-        max-width: 120px;
-        padding: 10px;
-    }
-
-    .burger-menu{
-        width: 150px;
-        font-size: 14px;
-    }
-
-    .burger-menu label {
-        width: 22px;
-        height: 18px;
-    }
-
-    label span:before{
-        content: "";
-        bottom: 6px;
-    }
-
-    label span:after{
-        content: "";
-        top: 6px;
-    }
-    burger-menu ul{
-        left: 0;
-        width: 200px;
-        height: 50%;
-        padding: 10px 0;
-    }
-    #menu:checked ~ ul{
-        left: -40%;
-    }
-
-    ul li a {
-        font: 12px/10px 'Open Sans', sans-serif;
-        font-weight: 600;
-        background-color: #f9f9f9;
-    }
-    .burger-menu ul li {
-        font-size: 12px;
-    }
-
-
-
-    .main h1 {
-        font: 24px/24px 'Open Sans', sans-serif;
-    }
-    .main h1 span{
-        font: 24px/24px 'Open Sans', sans-serif;
-        font-style: italic;
-    }
-    h2 {
-        color: #505d68;
-        font: 18px/18px 'Open Sans', sans-serif;
-        font-weight: 600;
-        margin-bottom: 30px;
-    }
-
-    .show-work .wrapper.d-flex div {
-        width: 100%;
-        margin-bottom: 2px;
-    }
-    .post .d-flex div {
-        max-width: 100%;
-    }
-    .post .desc {
-        width: 100%;
-    }
-
-
-    .contact .d-flex div {
-        background-color: #f9f9f9;
-        padding: 30px 15px 30px;
-        text-align: center;
-        width: 100%;
-    }
-
-    h6 {
-        color:#505d68 ;
-        font-size: 12px;
-        margin-bottom: 20px;
-    }
-
-    .contact p{
-        font-size: 16px;
-    }
-
-    footer .container.d-flex {
-        flex-wrap: wrap;
-    }
-    footer .container.d-flex div{
-        width: 100%;
-    }
-    footer .container.d-flex div:first-of-type {
-        margin-bottom: 15px;
-    }
-}
