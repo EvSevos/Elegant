@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +69,7 @@
       <workItem from="1606464966474" duration="24680000" />
       <workItem from="1606562341326" duration="11170000" />
       <workItem from="1606574604536" duration="868000" />
-      <workItem from="1606718715907" duration="11344000" />
+      <workItem from="1606718715907" duration="12892000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -119,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606736829916</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="del debug.log">
+      <created>1606737657280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606737657280</updated>
+    </task>
+    <task id="LOCAL-00009" summary="del debug.log">
+      <created>1606737712371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606737712371</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,21 +149,26 @@
     <MESSAGE value=" change media for 428px" />
     <MESSAGE value="add page &quot;About&quot;" />
     <MESSAGE value="add css media for &quot;About&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css media for &quot;About&quot;" />
+    <MESSAGE value="del debug.log" />
+    <option name="LAST_COMMIT_MESSAGE" value="del debug.log" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606737656083">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606737711313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606737656083" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606737711313" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606241100729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606241100729" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606736838187">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1606738131080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606736838187" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606737720983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606737720983" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606719044788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
