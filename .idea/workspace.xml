@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <workItem from="1606464966474" duration="24680000" />
       <workItem from="1606562341326" duration="11170000" />
       <workItem from="1606574604536" duration="868000" />
-      <workItem from="1606718715907" duration="10490000" />
+      <workItem from="1606718715907" duration="11344000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606573398831</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add css media for &quot;About&quot;">
+      <created>1606736829916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606736829916</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,21 +133,22 @@
     <MESSAGE value="change css" />
     <MESSAGE value=" change media for 428px" />
     <MESSAGE value="add page &quot;About&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add page &quot;About&quot;" />
+    <MESSAGE value="add css media for &quot;About&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add css media for &quot;About&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606573397288">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606736828483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606573397288" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606736828483" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606241100729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606241100729" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606573404686">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606736838187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606573404686" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606736838187" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606719044788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
