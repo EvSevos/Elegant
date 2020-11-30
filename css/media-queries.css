@@ -1,34 +1,28 @@
 @media only screen and (max-width: 1024px){
-    .show-work .wrapper.d-flex div {
-        width: 25%;
-        max-height: 302px;
-        margin-bottom: 3px;
-}
-}
-@media only screen and (max-width: 992px) {
-    .show-work .wrapper.d-flex img {
-        width: 33%;
-        display: block;
-    }
-}
 
-
-
-@media only screen and (max-width: 767px) {
     .main {
         background-image: url('../images/bg_main_mob_01.jpg');
     }
 
+    .main-about{
+        background-image: url('../images/bg_about_mobile_01.jpg');
+    }
     header {
-        background-color: rgba(84, 90, 91, 0.36);
         background: linear-gradient(to right, rgba(84, 90, 91, 0.36) 90%, rgba(39, 50, 55, 0.7) 10%);
     }
 
     .main .burger-menu span {
         visibility: hidden;
     }
+    .main-about .burger-menu span {
+        visibility: hidden;
+    }
 
     .main .burger-menu label span {
+        visibility: visible;
+    }
+
+    .main-about .burger-menu label span {
         visibility: visible;
     }
 
@@ -54,6 +48,85 @@
         left: -40%;
     }
 
+
+    .main {
+        background-image: url('../images/bg_main_mob_01.jpg');
+    }
+
+
+
+
+    .show-work .wrapper.d-flex div {
+        width: 25%;
+        max-height: 302px;
+        margin-bottom: 3px;
+}
+
+    /*---ABOUT---*/
+
+    .about-text {
+        padding: 312px 15px 303px;
+    }
+
+    .about-text.container p {
+        font: 35px/54px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+    .services .d-flex div {
+        width: 100%;
+    }
+
+    .services .wrapper.d-flex .serv-info {
+        width: 100%;
+        padding: 90px 75px;
+    }
+    .services .serv-info h5 {
+        font-size: 85px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-bottom: 175px;
+
+    }
+    .services .serv-info .d-flex {
+        width: 100%;
+        flex-direction: column;
+
+    }
+    .services .d-flex .serv-info p {
+        display: block;
+        color: #505d68;
+        font: 31px/46px 'Open Sans', sans-serif;
+        font-weight: 300;
+        width: 100%;
+    }
+
+    .serv-info .d-flex ul li{
+        color: #505d68;
+        font: 31px/46px 'Open Sans', sans-serif;
+        font-weight: 300;
+        width: 100%;
+    }
+
+
+}
+
+
+
+/*---------------------*/
+
+@media only screen and (max-width: 992px) {
+
+
+    .show-work .wrapper.d-flex img {
+        width: 33%;
+        display: block;
+    }
+}
+
+
+/*----------------*/
+
+@media only screen and (max-width: 768px) {
 
     h3 {
         font: 28px/28px 'Open Sans', sans-serif;
@@ -102,11 +175,16 @@
     .post .desc {
         width: 100%;
     }
+
+
+
+
 }
 /*----------------------------*/
 
 @media only screen and (max-width: 428px) {
-    header {
+
+        header {
 
         background: linear-gradient(to right, rgba(84, 90, 91, 0.36) 85%, rgba(39, 50, 55, 0.7) 15%);
     }
@@ -250,14 +328,98 @@
         margin-bottom: 15px;
     }
 
-}
 
-@media only screen and (max-width: 428px) {
-    header {
+    /*---ABOUT---*/
+    .about-text {
+        padding: 80px 15px 0;
+    }
 
-        background: linear-gradient(to right, rgba(84, 90, 91, 0.36) 80%, rgba(39, 50, 55, 0.7) 20%);
+    .about-text.container p {
+        font: 26px/42px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+    .services .d-flex div {
+        width: 100%;
+    }
+
+    .services .wrapper.d-flex .serv-info {
+        width: 100%;
+        padding: 70px 25px;
+    }
+    .services .serv-info h5 {
+        font-size: 65px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        margin-bottom: 75px;
+
+    }
+    .services .serv-info .d-flex {
+        width: 100%;
+        flex-direction: column;
+
+    }
+    .services .d-flex .serv-info p {
+        font: 26px/40px 'Open Sans', sans-serif;
+        font-weight: 300;
+        width: 100%;
+        padding: 0;
+    }
+
+    .serv-info .d-flex ul li{
+        color: #505d68;
+        font: 26px/40px 'Open Sans', sans-serif;
+        font-weight: 300;
+        width: 100%;
+    }
+    .serv-info .d-flex ul {
+        padding-left: 0;
     }
 }
+
+
+@media only screen and (max-width: 365px) {
+    /*---ABOUT---*/
+    .about-text {
+        padding: 50px 15px 0;
+    }
+
+    .about-text.container p {
+        font: 18px/36px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+    .services .d-flex div {
+        width: 100%;
+    }
+
+    .services .wrapper.d-flex .serv-info {
+        width: 100%;
+        padding: 40px 25px;
+    }
+    .services .serv-info h5 {
+        font-size: 35px;
+        margin-bottom: 40px;
+
+    }
+    .services .serv-info .d-flex {
+        width: 100%;
+        flex-direction: column;
+
+    }
+    .services .d-flex .serv-info p {
+        font: 18px/36px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+
+    .serv-info .d-flex ul li{
+        font: 18px/36px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+
+
+
+
+}
+
 
 
 

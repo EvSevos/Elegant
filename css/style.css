@@ -46,6 +46,7 @@ header .logo {
 
 header .logo a {
     text-decoration: none;
+    transition: 0.3s;
 }
 
 header .logo img {
@@ -137,11 +138,12 @@ ul li a {
     font-weight: 600;
     color: #3d82bb;
     text-decoration: none;
+    transition: 0.3s;
 }
 
 .burger-menu ul li a:hover {
     color: #ffffff;
-    background-color: #3d82bb;
+
 }
 
 
@@ -428,6 +430,9 @@ footer .container.d-flex div {
     width: 50%;
 }
 
+
+/*------- ABOUT-----------*/
+
 .main-about {
     background-image: url('../images/bg_main_about_02.jpg');
     background-size: cover;
@@ -439,6 +444,10 @@ footer .container.d-flex div {
 
 .main-about ul li a {
     color: #ffffff;
+}
+.main-about .burger-menu ul li a:hover {
+    color: #505d68;
+
 }
 
 .about-text {
@@ -461,21 +470,20 @@ footer .container.d-flex div {
 
 .services .d-flex div {
     width: 50%;
-
-
 }
 
 .services .d-flex img {
     display: block;
     width: 100%;
-    max-height: 450px;
+    height: 100%;
+
 }
 
 .services .wrapper.d-flex .serv-info {
     width: 50%;
     background-color: #f9f9f9;
-    padding: 55px 75px 50px 55px;
-    max-height: 450px;
+    padding: 45px 75px 50px 55px;
+
 }
 
 .services .serv-info h5 {
@@ -492,23 +500,20 @@ footer .container.d-flex div {
     width: 100%;
     justify-content: space-between;
     align-items:end;
-
-
 }
 
 .services .d-flex .serv-info p {
     display: block;
-    color: #021725;
+    color: #505d68;
     font: 18px/36px 'Open Sans', sans-serif;
     font-weight: 300;
-    max-width: 210px;
+    padding-right:55px;
+
 }
 
 .serv-info .d-flex ul {
-    padding-left: 10px;
-    list-style: none;
-    max-width: 210px;
-
+   list-style: none;
+    padding-left: 45px;
 }
 
 .serv-info .d-flex ul li:before {
