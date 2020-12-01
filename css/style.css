@@ -252,31 +252,27 @@ p {
     margin-bottom: 50px;
 }
 
-.people .d-flex {
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
 
-.people .d-flex div {
-    width: 32%;
-    margin: 0 auto 5px;
+
+.people .item{
+    margin: 0 5px 5px;
     background-color: #f9f9f9;
     text-align: left;
 }
 
-.people .d-flex div img {
+.people .item img {
     width: 100%;
     display: block;
     margin-bottom: 20px;
 
 }
 
-.people .d-flex div h3, .people .d-flex div h4, .people .d-flex div p {
+.people .item h3, .people .item h4, .people .item p {
     padding-left: 16px;
 
 }
 
-.people .d-flex div h3 {
+.people .item h3 {
     margin-bottom: 24px;
 }
 
@@ -285,7 +281,7 @@ h4 {
     margin-bottom: 38px;
 }
 
-.people .d-flex div p {
+.people .item p {
     font: 13px/20px 'Open Sans', sans-serif;
     font-weight: 300;
     margin-bottom: 48px;
