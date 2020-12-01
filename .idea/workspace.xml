@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
@@ -71,6 +73,9 @@
       <workItem from="1606574604536" duration="868000" />
       <workItem from="1606718715907" duration="13755000" />
       <workItem from="1606813745213" duration="8491000" />
+      <workItem from="1606841429962" duration="582000" />
+      <workItem from="1606842303044" duration="628000" />
+      <workItem from="1606843856310" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -192,25 +197,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="add link for page &quot;Work&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606816902214">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606826027250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606816902214" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606241100729">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606826027250" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606843835773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606241100729" />
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606843835773" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1606738131080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606816904897">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606826031569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606816904897" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606813767741">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606826031569" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606842306004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606813767741" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606842306004" />
   </component>
 </project>
