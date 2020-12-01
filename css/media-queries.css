@@ -7,6 +7,7 @@
     .main-about{
         background-image: url('../images/bg_about_mobile_01.jpg');
     }
+
     header {
         background: linear-gradient(to right, rgba(84, 90, 91, 0.36) 90%, rgba(39, 50, 55, 0.7) 10%);
     }
@@ -38,22 +39,15 @@
     }
 
     ul li a {
-        font: 22px/22px 'Open Sans', sans-serif;
+        font: 18px/22px 'Open Sans', sans-serif;
         font-weight: 600;
         color: black;
 
     }
 
-    #menu:checked ~ ul {
-        left: -40%;
-    }
-
-
-    .main {
+      .main {
         background-image: url('../images/bg_main_mob_01.jpg');
     }
-
-
 
 
     .show-work .wrapper.d-flex div {
@@ -115,19 +109,6 @@
 /*---------------------*/
 
 @media only screen and (max-width: 992px) {
-
-
-    .show-work .wrapper.d-flex img {
-        width: 33%;
-        display: block;
-    }
-}
-
-
-/*----------------*/
-
-@media only screen and (max-width: 768px) {
-
     h3 {
         font: 28px/28px 'Open Sans', sans-serif;
         margin-bottom: 35px;
@@ -146,6 +127,22 @@
         margin-bottom: 74px;
     }
 
+    .show-work .wrapper.d-flex img {
+        width: 33%;
+        display: block;
+    }
+
+    .work .wrapper.d-flex img {
+        width: 33%;
+        display: block;
+    }
+
+}
+
+
+/*----------------*/
+
+@media only screen and (max-width: 768px) {
     .about a {
         font-size: 20px;
         font-weight: 300;
@@ -176,6 +173,21 @@
         width: 100%;
     }
 
+    .work .wrapper.d-flex img {
+        width: 50%;
+        display: block;
+    }
+
+    footer .container.d-flex {
+        flex-wrap: wrap;
+        text-align: start;
+    }
+    footer .container.d-flex div{
+        width: 100%;
+    }
+    footer .container.d-flex div:first-of-type {
+        margin-bottom: 15px;
+    }
 
 
 
@@ -318,15 +330,7 @@
         font-size: 16px;
     }
 
-    footer .container.d-flex {
-        flex-wrap: wrap;
-    }
-    footer .container.d-flex div{
-        width: 100%;
-    }
-    footer .container.d-flex div:first-of-type {
-        margin-bottom: 15px;
-    }
+
 
 
     /*---ABOUT---*/
@@ -374,6 +378,13 @@
     .serv-info .d-flex ul {
         padding-left: 0;
     }
+
+    .work .wrapper.d-flex img {
+        width: 100%;
+        display: block;
+        padding-bottom: 1px;
+    }
+
 }
 
 
@@ -387,6 +398,7 @@
         font: 18px/36px 'Open Sans', sans-serif;
         font-weight: 300;
     }
+
     .services .d-flex div {
         width: 100%;
     }
@@ -395,27 +407,51 @@
         width: 100%;
         padding: 40px 25px;
     }
+
     .services .serv-info h5 {
         font-size: 35px;
         margin-bottom: 40px;
 
     }
+
     .services .serv-info .d-flex {
         width: 100%;
         flex-direction: column;
 
     }
+
     .services .d-flex .serv-info p {
         font: 18px/36px 'Open Sans', sans-serif;
         font-weight: 300;
     }
 
-    .serv-info .d-flex ul li{
+    .serv-info .d-flex ul li {
         font: 18px/36px 'Open Sans', sans-serif;
         font-weight: 300;
     }
+}
+/*-------WORK----*/
+@media only screen and (max-width: 1024px){
+    .main-work{
+        background-image: url('../images/main_work-mobile_01.jpg');
+    }
+    .main-work .burger-menu span {
+        visibility: hidden;
+    }
+
+    .main-work .burger-menu label span {
+        visibility: visible;
+    }
 
 
+    .about-text {
+        padding: 80px 15px 0;
+    }
+
+    .about-text.container p {
+        font: 26px/42px 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
 
 
 }
