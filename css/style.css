@@ -528,5 +528,55 @@ footer .container.d-flex div {
     font-weight: 300;
 }
 
+/*--WORK-------------*/
+
+.main-work {
+    background-image: url('../images/bg_main_work_02.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.main-work  ul li a {
+    color: #ffffff;
+}
+.main-work  .burger-menu ul li a:hover {
+    color: #505d68;
+}
+
+.work-text {
+    padding:128px 15px 140px;
+}
+
+.work-text.container h2 {
+    color: #021725;
+   }
+
+.work-text.container p {
+margin-bottom: 0;
+}
+
+.work {
+    padding-left:15px;
+    text-align: center;
+}
+.work .wrapper {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.work .wrapper.d-flex {
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.work .wrapper.d-flex img {
+    width: 25%;
+    display: block;
+    padding: 1px;
+
+}
+
 
 
