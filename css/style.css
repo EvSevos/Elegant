@@ -227,6 +227,8 @@ p {
     margin-bottom: 162px;
 }
 
+
+/*всплывающее окно------------*/
 .ui-dialog {
     max-width: 750px!important;
     width: 100%!important;
@@ -240,6 +242,8 @@ p {
     border-top-left-radius: 0;
 }
 
+
+
 .ui-dialog .ui-dialog-titlebar{
     background-color:#000000 ;
     border-radius: 0;
@@ -251,6 +255,39 @@ p {
     border: none;
 }
 
+.ui-dialog .ui-dialog-titlebar .ui-corner-all{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+
+}
+
+/*.ui-icon-closethick {
+    /* background-position: -96px -128px;
+}*/
+
+.ui-icon {
+    background-image: none;
+    background-position: 0;
+    text-indent: 0;
+}
+
+.ui-widget .ui-widget {
+    font-size: 24px;
+    color: red;
+}
+
+.ui-button{
+    font-size: 24px;
+    color: red;
+}
+.ui-button .ui-icon{
+    color: red;
+}
+
+
+
+
+
 .ui-dialog .ui-dialog-title{
     color: #f9f9f9;
     font-size: 24px;
@@ -258,28 +295,90 @@ p {
     text-transform: uppercase;
     font-family: 'Now';
     float: none;
+}
+
+.ui-button{
+    background: black;
+    border: none;
+    color: #ffffff;
 
 }
 
-.ui-button .ui-icon,.ui-button .ui-icon,.ui-icon-closethick{
-
-    background-image: none;
-}
 
 
 
-
-.about form{
+.ui-dialog .ui-dialog-content{
+    text-align: center;
     background-color: #fbfbfb;
     padding: 40px 85px 95px;
+    align-items: center;
 }
-.about label{
-    font-size: 22px;
+.ui-dialog .ui-dialog-content .d-flex{
+    margin-bottom: 40px}
+
+.ui-widget label{
+    font-size: 21px;
     font-family: 'Now';
     color:#363636 ;
+    font-weight: 600;
+    margin-right: 60px;
 
 }
-.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-draggable.ui-resizable{}
+
+.ui-widget label .d-flex{
+    display: inline-block;
+    flex-direction:column;
+}
+
+
+.ui-widget input {
+    height: 60px;
+    width: 382px;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 15px;
+}
+
+.ui-dialog .ui-dialog-content button{
+padding: 20px 15px;
+    background: linear-gradient(to right, #d5d5d5, #b7b7b7);
+    width: 528px;
+    color: #021725;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Now';
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 38px;
+}
+
+.ui-dialog .ui-dialog-content button:nth-of-type(2){
+    background: #557acb;
+    color: #ffffff;
+}
+
+.ui-dialog .ui-dialog-content button:nth-of-type(2):before{
+    content: "\f39e";
+    font-weight: 400;
+    font-family: "Font Awesome 5 Brands";
+    margin-right: 14px;
+
+}
+
+.ui-dialog .ui-dialog-content span {
+    display: block;
+    text-transform: uppercase;
+    font: 22px/22px "Now";
+    font-weight: 600;
+    margin-bottom: 38px;
+   }
+
+
+
+
+
 
 
 
