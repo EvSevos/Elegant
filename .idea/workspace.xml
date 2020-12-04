@@ -41,12 +41,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Elegant\fonts" />
+      <recent name="D:\Женя\LEMON\Elegant\Fonts" />
       <recent name="D:\Женя\LEMON\Elegant\js" />
       <recent name="D:\Женя\LEMON\Elegant\css" />
       <recent name="D:\Женя\LEMON\Elegant" />
@@ -79,6 +81,8 @@
       <workItem from="1606841429962" duration="582000" />
       <workItem from="1606842303044" duration="628000" />
       <workItem from="1606843856310" duration="4736000" />
+      <workItem from="1606894710964" duration="616000" />
+      <workItem from="1607065427700" duration="5960000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -222,25 +226,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="add carusel js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606846437226">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1606848921558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606846437226" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606843835773">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606848921558" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606897015157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606843835773" />
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606897015157" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1606738131080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606846507686">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1606848925983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606846507686" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606842306004">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606848925983" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606894716893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606842306004" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606894716893" />
   </component>
 </project>
