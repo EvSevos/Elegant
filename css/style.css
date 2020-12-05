@@ -291,6 +291,7 @@ p {
     font-weight: 900;
     font-family: "Font Awesome 5 Free";
 }
+
 .ui-icon:after:hover{
 background-image: none;
 }
@@ -368,7 +369,7 @@ background-image: none;
 }
 
 .ui-dialog .ui-dialog-content button{
-padding: 20px 15px;
+    padding: 20px 15px;
     background: linear-gradient(to right, #d5d5d5, #b7b7b7);
     width: 528px;
     color: #021725;
@@ -379,6 +380,7 @@ padding: 20px 15px;
     border-radius: 3px;
     border: none;
     margin-bottom: 38px;
+    cursor: pointer;
 }
 
 .ui-dialog .ui-dialog-content button:nth-of-type(2){
@@ -391,7 +393,6 @@ padding: 20px 15px;
     font-weight: 400;
     font-family: "Font Awesome 5 Brands";
     margin-right: 14px;
-
 }
 
 .ui-dialog .ui-dialog-content span {
@@ -401,8 +402,28 @@ padding: 20px 15px;
     font-weight: 600;
     margin-bottom: 38px;
    }
+/*
+.ui-dialog .ui-dialog-content a{
+    padding: 20px 92px;
+    background: #557acb;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Now';
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 38px;
+    text-decoration: none;
+}
 
-
+.ui-dialog .ui-dialog-content a:before{
+    content: "\f39e";
+    font-weight: 400;
+    font-family: "Font Awesome 5 Brands";
+    margin-right: 14px;
+}
+*/
 
 
 
