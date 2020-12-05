@@ -16,6 +16,9 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Elegant" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -84,7 +87,8 @@
       <workItem from="1607065427700" duration="12001000" />
       <workItem from="1607097978480" duration="24000" />
       <workItem from="1607098050190" duration="7000" />
-      <workItem from="1607098099165" duration="7576000" />
+      <workItem from="1607098099165" duration="7859000" />
+      <workItem from="1607177352792" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607071519810</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add &quot;open dialog&quot;">
+      <created>1607113505758</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607113505758</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,13 +244,14 @@
     <MESSAGE value="add link for page &quot;Work&quot;" />
     <MESSAGE value="add carusel js" />
     <MESSAGE value="add font &quot;Now&quot; and dialog" />
-    <option name="LAST_COMMIT_MESSAGE" value="add font &quot;Now&quot; and dialog" />
+    <MESSAGE value="add &quot;open dialog&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;open dialog&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607071518212">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607113504050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607071518212" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607113504050" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606897015157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,13 +260,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607071525099">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607113510403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607071525099" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607098099819">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607113510403" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607177356970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607098099819" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607177356970" />
   </component>
 </project>
