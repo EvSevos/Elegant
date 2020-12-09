@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Your  Work.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg_yourwork_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show10_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show11_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show9_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show-work.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,17 +51,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Elegant" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Elegant" />
+      <recent name="D:\Женя\LEMON\Elegant\js" />
       <recent name="D:\Женя\LEMON\Elegant\fonts" />
       <recent name="D:\Женя\LEMON\Elegant\Fonts" />
-      <recent name="D:\Женя\LEMON\Elegant\js" />
       <recent name="D:\Женя\LEMON\Elegant\css" />
-      <recent name="D:\Женя\LEMON\Elegant" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -88,7 +100,9 @@
       <workItem from="1607098050190" duration="7000" />
       <workItem from="1607098099165" duration="7859000" />
       <workItem from="1607177352792" duration="5455000" />
-      <workItem from="1607446074356" duration="345000" />
+      <workItem from="1607446074356" duration="6783000" />
+      <workItem from="1607522634935" duration="445000" />
+      <workItem from="1607531782458" duration="9220000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -237,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607182204423</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add &lt;a&gt; for log Facebook">
+      <created>1607446496455</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607446496455</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,25 +285,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="add &lt;a&gt; for log Facebook" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607182203043">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607446494490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607182203043" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1606897015157">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607446494490" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607523077939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606897015157" />
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607523077939" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1606738131080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607182207647">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607446501403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607182207647" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607446075096">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607446501403" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607522988801">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607446075096" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607522988801" />
   </component>
 </project>
