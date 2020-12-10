@@ -1047,8 +1047,7 @@ nav.sub-menu-open .nav-links .hover-el {
     margin-bottom:80px ;
 
 }
-{
-}
+
 .wrapper{
     background-color: #f9f9f9;
     max-width: 1150px;
@@ -1114,6 +1113,109 @@ nav.sub-menu-open .nav-links .hover-el {
     padding-top: 22px;
     margin-bottom: 75px;
 }
+
+/*----CONTACTS ---*/
+
+.main_contacts{
+    background-image: url('../images/contact_bg_header_01.jpg');
+    background-size: cover;
+    height: 402px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    margin-bottom:130px ;
+
+}
+
+.info_contacts .container{
+    max-width: 770px;
+    margin: auto;
+    margin-bottom: 83px;
+}
+
+.info_contacts h2 {
+    color: #505d68;
+    font: 44px/44px 'Open Sans', sans-serif;
+    font-weight: 900;
+    margin-bottom: 60px;
+}
+
+.info_contacts .d-flex{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 78px;
+}
+
+
+.item_contact {
+    width: 302px;
+    height: 302px;
+    background-color: #000000;
+    padding: 30px;
+}
+.item_contact:first-child {
+    background-color: #d3b000;
+
+}
+
+.info_contacts .item_contact p {
+    font: 25px/36px 'Open Sans', sans-serif;
+    margin-bottom: 52px;
+    color:#ffffff ;
+    text-align: start;
+}
+
+.info_contacts .item_contact p:before {
+    content: "";
+    display: block;
+    width: 34px;
+    height: 5px;
+    background-color: #ffffff;
+    flex-direction: column;
+    margin-bottom: 50px ;
+
+}
+
+.item_contact img {
+
+    width: 100%;
+    display: block;
+}
+
+.item_contact_text{
+    background-color: #f9f9f9;
+    padding: 50px 56px 0 46px;
+    width: 60%;
+    height: 302px;
+}
+
+.item_contact_text p {
+    font: 20px/30px 'Open Sans', sans-serif;
+    font-weight: 300;
+    color:#323d43 ;
+    text-align: start;
+}
+
+.info_contacts .container a{
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color:#021725 ;
+    text-align: center;
+    padding: 26px 60px 22px;
+    border: solid 1px #000000;
+    text-decoration: none;
+    margin-bottom: 83px;
+}
+
+
+
+
+
+
+
+
 
 
 

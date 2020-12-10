@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +47,15 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Женя\LEMON\Elegant" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Женя\LEMON\Elegant" />
       <recent name="D:\Женя\LEMON\Elegant\js" />
       <recent name="D:\Женя\LEMON\Elegant\fonts" />
       <recent name="D:\Женя\LEMON\Elegant\Fonts" />
       <recent name="D:\Женя\LEMON\Elegant\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Женя\LEMON\Elegant" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -93,7 +94,7 @@
       <workItem from="1607446074356" duration="6783000" />
       <workItem from="1607522634935" duration="445000" />
       <workItem from="1607531782458" duration="10409000" />
-      <workItem from="1607586764302" duration="4328000" />
+      <workItem from="1607586764302" duration="11255000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -284,7 +285,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607591231065</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add link for Your Work">
+      <created>1607592122170</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607592122170</updated>
+    </task>
+    <task id="LOCAL-00029" summary="create new page &quot;contacts.html&quot;">
+      <created>1607611663115</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607611663115</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add link &quot;contacts.html&quot;">
+      <created>1607611887061</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607611887061</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,13 +333,15 @@
     <MESSAGE value="create new page &quot;your work&quot;" />
     <MESSAGE value="add menu-burger in &quot;aboute&quot;,&quot;Work&quot;" />
     <MESSAGE value="add link for Your Work" />
-    <option name="LAST_COMMIT_MESSAGE" value="add link for Your Work" />
+    <MESSAGE value="create new page &quot;contacts.html&quot;" />
+    <MESSAGE value="add link &quot;contacts.html&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add link &quot;contacts.html&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607591230028">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607611885719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607591230028" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607611885719" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607523077939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -326,10 +350,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607591235525">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607611890775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607591235525" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607611890775" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607587189982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
