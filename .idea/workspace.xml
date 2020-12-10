@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <workItem from="1607446074356" duration="6783000" />
       <workItem from="1607522634935" duration="445000" />
       <workItem from="1607531782458" duration="10409000" />
-      <workItem from="1607586764302" duration="3002000" />
+      <workItem from="1607586764302" duration="3951000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -272,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607589180760</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add link for Your Work">
+      <created>1607590230768</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607590230768</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,13 +303,14 @@
     <MESSAGE value="add &lt;a&gt; for log Facebook" />
     <MESSAGE value="create new page &quot;your work&quot;" />
     <MESSAGE value="add menu-burger in &quot;aboute&quot;,&quot;Work&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add menu-burger in &quot;aboute&quot;,&quot;Work&quot;" />
+    <MESSAGE value="add link for Your Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="add link for Your Work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607589178921">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607590229435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607589178921" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607590229435" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607523077939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -313,10 +319,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607589196682">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607590235263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607589196682" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607590235263" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607587189982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
