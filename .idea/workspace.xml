@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce3a9811-6657-4020-83bc-335eb7ac53c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/serv_bow_02.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/your_work.html" beforeDir="false" afterPath="$PROJECT_DIR$/your_work.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +99,14 @@
       <workItem from="1607446074356" duration="6783000" />
       <workItem from="1607522634935" duration="445000" />
       <workItem from="1607531782458" duration="10409000" />
-      <workItem from="1607586764302" duration="11255000" />
+      <workItem from="1607586764302" duration="11695000" />
+      <workItem from="1607619593509" duration="220000" />
+      <workItem from="1608493674956" duration="1419000" />
+      <workItem from="1608852464169" duration="1234000" />
+      <workItem from="1610621135180" duration="1215000" />
+      <workItem from="1611235440268" duration="613000" />
+      <workItem from="1611567814926" duration="1281000" />
+      <workItem from="1620364370162" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="qwe">
       <created>1606410108673</created>
@@ -306,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607611887061</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add link &quot;contacts.html&quot;">
+      <created>1607612409884</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607612409884</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,25 +357,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="add link &quot;contacts.html&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1607611885719">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1620364371084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607611885719" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607523077939">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607523077939" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1606738131080">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606738131080" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1607611890775">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607611890775" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607587189982">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607587189982" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1620364371084" />
   </component>
 </project>
