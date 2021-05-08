@@ -17,8 +17,6 @@
     box-sizing: border-box;
 }
 
-
-
 body {
     font-family: 'Open Sans', sans-serif;
     background-color: #ffffff;
@@ -410,42 +408,6 @@ background-image: none;
     font-weight: 600;
     margin-bottom: 38px;
    }
-/*
-.ui-dialog .ui-dialog-content a{
-    padding: 20px 92px;
-    background: #557acb;
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-family: 'Now';
-    border-radius: 3px;
-    border: none;
-    margin-bottom: 38px;
-    text-decoration: none;
-}
-
-.ui-dialog .ui-dialog-content a:before{
-    content: "\f39e";
-    font-weight: 400;
-    font-family: "Font Awesome 5 Brands";
-    margin-right: 14px;
-}
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .show-work {
     padding: 80px 15px;
